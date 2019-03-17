@@ -1,3 +1,3 @@
 # HDD_POV
-- Arduino project
+- Arduino project  
 Controls clock made from harddrive
